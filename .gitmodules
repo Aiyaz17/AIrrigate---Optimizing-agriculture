@@ -1,0 +1,6 @@
+[submodule "Airrigate-frontend"]
+	path = Airrigate-frontend
+	url = https://github.com/Aiyaz17/Airrigate-frontend.git
+[submodule "Airrigate-backend"]
+	path = Airrigate-backend
+	url = https://github.com/Aiyaz17/Airrigate-backend.git
